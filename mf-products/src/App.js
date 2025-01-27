@@ -18,7 +18,7 @@ const App = () => {
       backgroundColor:"cyan"
     }}>
      <h1 className="text-5xl font-bold underline">
-   List of Products
+   List of Products changes via ci/cd
     </h1>
     {/* <Card title= {"Card Title from component lib"} description={"Card Title from component lib"}/> */}
       <Table data={data}/>
